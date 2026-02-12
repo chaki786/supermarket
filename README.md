@@ -1,4 +1,4 @@
-# 📊 Supermarket Sales Analysis & Prediction  
+# 📊 Supermarket Sales Analysis 
 
 ## 🔍 Key Insights (Power BI Report)  
 ✔ **Total Sales:** ₹14,95,69,820  
@@ -22,7 +22,7 @@
 ✔ City with Highest Sales  
 
 ## 🚀 Future Improvements  
-- ✅ Adding **Machine Learning Model** for Sales Prediction *(In Progress)*  
+- ✅ Exploring basic forecasting techniques for sales trends (learning phase)
 - ✅ Creating a **Full Report (PDF)** with detailed business insights  
 - ✅ More interactive **drill-down reports** in Power BI  
 
