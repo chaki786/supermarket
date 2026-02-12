@@ -1,3 +1,5 @@
+Focus: Data Quality, Research Analysis, SQL-based insights, and dashboard reporting.
+
 # 📊 Supermarket Sales Analysis 
 
 ## 🔍 Key Insights (Power BI Report)  
